@@ -1,0 +1,5 @@
+scipy
+torchvision
+torch
+numpy
+tensorboardX
